@@ -49,4 +49,4 @@ The purpose of this analysis is to determine how much Thomas High School's poten
 
 
 ## Summary
-### While the ninth grade scores at Thomas High School may have been subject to academic dishonesty, those scores did not appear to have a great affect on the high school, or even on the district as a whole. 
+### While the ninth grade scores at Thomas High School may have been subject to academic dishonesty, those scores did not appear to have a great effect on the high school, or even on the district as a whole. 
